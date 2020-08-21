@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@apollo/gateway": "^0.19.1",
+    "@babel/core": "^7.10.1",
+    "@babel/preset-env": "^7.10.1",
+    "@semantic-release/changelog": "^3.0.4",
+    "@semantic-release/exec": "^3.3.5",
+    "@semantic-release/git": "^7.0.16",
+    "apollo-server": "^2.16.1",
+    "babel-jest": "^26.0.1",
+    "graphql": "^15.3.0",
+    "jest": "^26.0.1",
+    "semantic-release": "^15.13.19"
+  }
+}

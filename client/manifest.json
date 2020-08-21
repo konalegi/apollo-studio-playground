@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "operations": [
+    {
+      "signature": "aa2cd1ba4ebfc00f72252a23de3822e7d2b77f9a14bae0414772d6bf67961add",
+      "document": "query GetMe{me{__typename age id}}",
+      "metadata": {
+        "engineSignature": ""
+      }
+    }
+  ]
+}
